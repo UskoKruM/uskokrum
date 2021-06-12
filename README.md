@@ -8,6 +8,7 @@ Mi nombre es Oscar García Fuentes, soy desarrollador full-stack desde hace 7 a�
 - [HTML](https://www.youtube.com/playlist?list=PL_wRgp7nihyZElF-6dkhPU_RetfSp99QN)
 - [JavaScript](https://www.youtube.com/playlist?list=PL_wRgp7nihyYdnV6ilQcZsfdG5d2nGWkc)
 - [Librería jQuery](https://www.youtube.com/playlist?list=PL_wRgp7nihyY020gyukDupJEJ84gimiPS)
+- [Node.js](https://www.youtube.com/playlist?list=PL_wRgp7nihybJkFgDxd-LBZgmSIVdy3rd)
 - [Java](https://www.youtube.com/playlist?list=PL_wRgp7nihyZ6hKPQcioxneVQ1aTuC4fS)
 - [Python](https://www.youtube.com/playlist?list=PL_wRgp7nihybbJ2vZaVGI5TDdPaK_dFuC)
 - [Framework Django](https://www.youtube.com/playlist?list=PL_wRgp7nihyZsEnudJ-XUAEdnOGUojbnn)
