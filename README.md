@@ -1,6 +1,6 @@
 ## Hi there! - Hola a todos! 👋🏻
 
-![Foto](https://github.com/UskoKruM/uskokrum/blob/master/banner.JPG?raw=true)
+![Foto](https://github.com/UskoKruM/uskokrum/blob/master/banner2.JPG?raw=true)
 
 Mi nombre es Oscar García Fuentes, soy desarrollador full-stack desde hace 7 años 👨🏻‍💻, comparto videos de informática, tecnología y tutoriales de programación en YouTube: [UskoKruM2010](https://www.youtube.com/UskoKruM2010), espero que te animes a seguirme. 👍🏻
 
@@ -12,6 +12,7 @@ Mi nombre es Oscar García Fuentes, soy desarrollador full-stack desde hace 7 a�
 - [Java](https://www.youtube.com/playlist?list=PL_wRgp7nihyZ6hKPQcioxneVQ1aTuC4fS)
 - [Python](https://www.youtube.com/playlist?list=PL_wRgp7nihybbJ2vZaVGI5TDdPaK_dFuC)
 - [Framework Django](https://www.youtube.com/playlist?list=PL_wRgp7nihyZsEnudJ-XUAEdnOGUojbnn)
+- [Framework Flask](https://youtu.be/-1DmVCPB6H8)
 - [PHP y MySQL](https://www.youtube.com/playlist?list=PL_wRgp7nihyYXMZ5bBP6v0Q31fRRJLiud)
 - [C#](https://www.youtube.com/playlist?list=PL_wRgp7nihyYACu4RyZd0PxJUseQ2tQl8)
 - [Visual Basic.NET](https://www.youtube.com/playlist?list=PL_wRgp7nihybLjm19HvBxRDp-ZvyGEhdh)
