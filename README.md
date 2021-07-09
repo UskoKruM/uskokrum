@@ -1,6 +1,6 @@
 ## Hi there! - Hola a todos! 👋🏻
 
-![Foto](https://github.com/UskoKruM/uskokrum/blob/master/banner2.JPG?raw=true)
+![Foto](https://github.com/UskoKruM/uskokrum/blob/master/banner3.JPG?raw=true)
 
 Mi nombre es Oscar García Fuentes, soy desarrollador full-stack desde hace 7 años 👨🏻‍💻, comparto videos de informática, tecnología y tutoriales de programación en YouTube: [UskoKruM2010](https://www.youtube.com/UskoKruM2010), espero que te animes a seguirme. 👍🏻
 
