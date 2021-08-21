@@ -47,8 +47,8 @@ Mi nombre es Oscar García Fuentes, soy desarrollador full-stack, administrador 
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/DutXvNkt11Q">
-  		<img src="http://i3.ytimg.com/vi/DutXvNkt11Q/maxresdefault.jpg">
+	<a href="https://youtu.be/kbJAhvzyw-E">
+  		<img src="http://i3.ytimg.com/vi/kbJAhvzyw-E/maxresdefault.jpg">
 	</a>
 	</td>
     <td>
